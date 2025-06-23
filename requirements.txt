@@ -1,0 +1,8 @@
+python-dotenv
+pandas
+numpy
+pymongo
+scikit-learn
+certifi
+pymongo[srv]
+-e .
