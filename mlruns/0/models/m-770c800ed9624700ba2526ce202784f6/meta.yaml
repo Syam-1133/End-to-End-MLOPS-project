@@ -1,0 +1,10 @@
+artifact_location: file:///Users/syamgudipudi/Desktop/Network/mlruns/0/models/m-770c800ed9624700ba2526ce202784f6/artifacts
+creation_timestamp: 1750989430746
+experiment_id: '0'
+last_updated_timestamp: 1750989434782
+model_id: m-770c800ed9624700ba2526ce202784f6
+model_type: null
+name: model
+source_run_id: ea798c58c29f4275a490fa1b3dfa3993
+status: 2
+status_message: null
