@@ -1,0 +1,10 @@
+artifact_location: file:///Users/syamgudipudi/Desktop/Network/mlruns/0/models/m-e4cc34ba45d743ca991144c0230dd49a/artifacts
+creation_timestamp: 1751037010264
+experiment_id: '0'
+last_updated_timestamp: 1751037012630
+model_id: m-e4cc34ba45d743ca991144c0230dd49a
+model_type: null
+name: model
+source_run_id: 6a1d79b398a841138fcb0697328ac341
+status: 2
+status_message: null
